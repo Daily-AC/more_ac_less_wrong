@@ -20,3 +20,7 @@
 ##### JiaFu-Peng
 
 - [x] 写了下群友给的题目
+
+##### 团队题单
+博弈论：https://codeforces.com/gym/519391
+rating分布：1200-1500
